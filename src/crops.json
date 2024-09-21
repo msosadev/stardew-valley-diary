@@ -1,0 +1,637 @@
+[
+    {
+        "bundle": "Spring Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/90/Wild_Horseradish.png/24px-Wild_Horseradish.png",
+        "label": "Wild Horseradish"
+    },
+    {
+        "bundle": "Spring Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Daffodil.png/24px-Daffodil.png",
+        "label": "Daffodil"
+    },
+    {
+        "bundle": "Spring Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/57/Leek.png/24px-Leek.png",
+        "label": "Leek"
+    },
+    {
+        "bundle": "Spring Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Dandelion.png/24px-Dandelion.png",
+        "label": "Dandelion"
+    },
+    {
+        "bundle": "Summer Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/24px-Grape.png",
+        "label": "Grape"
+    },
+    {
+        "bundle": "Summer Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Spice_Berry.png/24px-Spice_Berry.png",
+        "label": "Spice Berry"
+    },
+    {
+        "bundle": "Summer Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/Sweet_Pea.png/24px-Sweet_Pea.png",
+        "label": "Sweet Pea"
+    },
+    {
+        "bundle": "Fall Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Common_Mushroom.png/24px-Common_Mushroom.png",
+        "label": "Common Mushroom"
+    },
+    {
+        "bundle": "Fall Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Wild_Plum.png/24px-Wild_Plum.png",
+        "label": "Wild Plum"
+    },
+    {
+        "bundle": "Fall Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Hazelnut.png/24px-Hazelnut.png",
+        "label": "Hazelnut"
+    },
+    {
+        "bundle": "Fall Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Blackberry.png/24px-Blackberry.png",
+        "label": "Blackberry"
+    },
+    {
+        "bundle": "Winter Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Winter_Root.png/24px-Winter_Root.png",
+        "label": "Winter Root"
+    },
+    {
+        "bundle": "Winter Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/16/Crystal_Fruit.png/24px-Crystal_Fruit.png",
+        "label": "Crystal Fruit"
+    },
+    {
+        "bundle": "Winter Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Snow_Yam.png/24px-Snow_Yam.png",
+        "label": "Snow Yam"
+    },
+    {
+        "bundle": "Winter Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Crocus.png/24px-Crocus.png",
+        "label": "Crocus"
+    },
+    {
+        "bundle": "Construction Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+        "label": "Wood"
+    },
+    {
+        "bundle": "Construction Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+        "label": "Wood"
+    },
+    {
+        "bundle": "Construction Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d4/Stone.png/24px-Stone.png",
+        "label": "Stone"
+    },
+    {
+        "bundle": "Construction Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png",
+        "label": "Hardwood"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/24px-Coconut.png",
+        "label": "Coconut"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+        "label": "Cactus Fruit"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Cave_Carrot.png/24px-Cave_Carrot.png",
+        "label": "Cave Carrot"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+        "label": "Red Mushroom"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+        "label": "Purple Mushroom"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png",
+        "label": "Maple Syrup"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png",
+        "label": "Oak Resin"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Pine_Tar.png/24px-Pine_Tar.png",
+        "label": "Pine Tar"
+    },
+    {
+        "bundle": "Exotic Foraging Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Morel.png/24px-Morel.png",
+        "label": "Morel"
+    },
+    {
+        "bundle": "Spring Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+        "label": "Parsnip"
+    },
+    {
+        "bundle": "Spring Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Green_Bean.png/24px-Green_Bean.png",
+        "label": "Green Bean"
+    },
+    {
+        "bundle": "Spring Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Cauliflower.png/24px-Cauliflower.png",
+        "label": "Cauliflower"
+    },
+    {
+        "bundle": "Spring Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Potato.png/24px-Potato.png",
+        "label": "Potato"
+    },
+    {
+        "bundle": "Summer Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Tomato.png/24px-Tomato.png",
+        "label": "Tomato"
+    },
+    {
+        "bundle": "Summer Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png",
+        "label": "Hot Pepper"
+    },
+    {
+        "bundle": "Summer Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Blueberry.png/24px-Blueberry.png",
+        "label": "Blueberry"
+    },
+    {
+        "bundle": "Summer Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+        "label": "Melon"
+    },
+    {
+        "bundle": "Fall Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+        "label": "Corn"
+    },
+    {
+        "bundle": "Fall Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Eggplant.png/24px-Eggplant.png",
+        "label": "Eggplant"
+    },
+    {
+        "bundle": "Fall Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+        "label": "Pumpkin"
+    },
+    {
+        "bundle": "Fall Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/24px-Yam.png",
+        "label": "Yam"
+    },
+    {
+        "bundle": "Quality Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+        "label": "Parsnip"
+    },
+    {
+        "bundle": "Quality Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+        "label": "Melon"
+    },
+    {
+        "bundle": "Quality Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+        "label": "Pumpkin"
+    },
+    {
+        "bundle": "Quality Crops Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+        "label": "Corn"
+    },
+    {
+        "bundle": "Animal Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Large_Milk.png/24px-Large_Milk.png",
+        "label": "Large Milk"
+    },
+    {
+        "bundle": "Animal Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Large_Brown_Egg.png/24px-Large_Brown_Egg.png",
+        "label": "Large Egg"
+    },
+    {
+        "bundle": "Animal Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Large_Egg.png/24px-Large_Egg.png",
+        "label": "Large Egg"
+    },
+    {
+        "bundle": "Animal Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Large_Goat_Milk.png/24px-Large_Goat_Milk.png",
+        "label": "Large Goat Milk"
+    },
+    {
+        "bundle": "Animal Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Wool.png/24px-Wool.png",
+        "label": "Wool"
+    },
+    {
+        "bundle": "Animal Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Duck_Egg.png/24px-Duck_Egg.png",
+        "label": "Duck Egg"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Truffle_Oil.png/24px-Truffle_Oil.png",
+        "label": "Truffle Oil"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/Cloth.png/24px-Cloth.png",
+        "label": "Cloth"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/24px-Goat_Cheese.png",
+        "label": "Goat Cheese"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Cheese.png/24px-Cheese.png",
+        "label": "Cheese"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+        "label": "Honey"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Jelly.png/24px-Jelly.png",
+        "label": "Jelly"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+        "label": "Apple"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fc/Apricot.png/24px-Apricot.png",
+        "label": "Apricot"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Orange.png/24px-Orange.png",
+        "label": "Orange"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/24px-Peach.png",
+        "label": "Peach"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+        "label": "Pomegranate"
+    },
+    {
+        "bundle": "Artisan Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Cherry.png/24px-Cherry.png",
+        "label": "Cherry"
+    },
+    {
+        "bundle": "River Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Sunfish.png/24px-Sunfish.png",
+        "label": "Sunfish"
+    },
+    {
+        "bundle": "River Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Catfish.png/24px-Catfish.png",
+        "label": "Catfish"
+    },
+    {
+        "bundle": "River Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ef/Shad.png/24px-Shad.png",
+        "label": "Shad"
+    },
+    {
+        "bundle": "River Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Tiger_Trout.png/24px-Tiger_Trout.png",
+        "label": "Tiger Trout"
+    },
+    {
+        "bundle": "Lake Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Largemouth_Bass.png/24px-Largemouth_Bass.png",
+        "label": "Largemouth Bass"
+    },
+    {
+        "bundle": "Lake Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a8/Carp.png/24px-Carp.png",
+        "label": "Carp"
+    },
+    {
+        "bundle": "Lake Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Bullhead.png/24px-Bullhead.png",
+        "label": "Bullhead"
+    },
+    {
+        "bundle": "Lake Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Sturgeon.png/24px-Sturgeon.png",
+        "label": "Sturgeon"
+    },
+    {
+        "bundle": "Ocean Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Sardine.png/24px-Sardine.png",
+        "label": "Sardine"
+    },
+    {
+        "bundle": "Ocean Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Tuna.png/24px-Tuna.png",
+        "label": "Tuna"
+    },
+    {
+        "bundle": "Ocean Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d3/Red_Snapper.png/24px-Red_Snapper.png",
+        "label": "Red Snapper"
+    },
+    {
+        "bundle": "Ocean Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Tilapia.png/24px-Tilapia.png",
+        "label": "Tilapia"
+    },
+    {
+        "bundle": "Night Fishing Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Walleye.png/24px-Walleye.png",
+        "label": "Walleye"
+    },
+    {
+        "bundle": "Night Fishing Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Bream.png/24px-Bream.png",
+        "label": "Bream"
+    },
+    {
+        "bundle": "Night Fishing Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png",
+        "label": "Eel"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Lobster.png/24px-Lobster.png",
+        "label": "Lobster"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Crayfish.png/24px-Crayfish.png",
+        "label": "Crayfish"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crab.png/24px-Crab.png",
+        "label": "Crab"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Cockle.png/24px-Cockle.png",
+        "label": "Cockle"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Mussel.png/24px-Mussel.png",
+        "label": "Mussel"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Shrimp.png/24px-Shrimp.png",
+        "label": "Shrimp"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Snail.png/24px-Snail.png",
+        "label": "Snail"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Periwinkle.png/24px-Periwinkle.png",
+        "label": "Periwinkle"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/54/Oyster.png/24px-Oyster.png",
+        "label": "Oyster"
+    },
+    {
+        "bundle": "Crab Pot Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Clam.png/24px-Clam.png",
+        "label": "Clam"
+    },
+    {
+        "bundle": "Specialty Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/ba/Pufferfish.png/24px-Pufferfish.png",
+        "label": "Pufferfish"
+    },
+    {
+        "bundle": "Specialty Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/72/Ghostfish.png/24px-Ghostfish.png",
+        "label": "Ghostfish"
+    },
+    {
+        "bundle": "Specialty Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bb/Sandfish.png/24px-Sandfish.png",
+        "label": "Sandfish"
+    },
+    {
+        "bundle": "Specialty Fish Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/97/Woodskip.png/24px-Woodskip.png",
+        "label": "Woodskip"
+    },
+    {
+        "bundle": "Blacksmith's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/24px-Copper_Bar.png",
+        "label": "Copper Bar"
+    },
+    {
+        "bundle": "Blacksmith's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Iron_Bar.png/24px-Iron_Bar.png",
+        "label": "Iron Bar"
+    },
+    {
+        "bundle": "Blacksmith's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png",
+        "label": "Gold Bar"
+    },
+    {
+        "bundle": "Geologist's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Quartz.png/24px-Quartz.png",
+        "label": "Quartz"
+    },
+    {
+        "bundle": "Geologist's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Earth_Crystal.png/24px-Earth_Crystal.png",
+        "label": "Earth Crystal"
+    },
+    {
+        "bundle": "Geologist's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Frozen_Tear.png/24px-Frozen_Tear.png",
+        "label": "Frozen Tear"
+    },
+    {
+        "bundle": "Geologist's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Fire_Quartz.png/24px-Fire_Quartz.png",
+        "label": "Fire Quartz"
+    },
+    {
+        "bundle": "Adventurer's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Slime.png/24px-Slime.png",
+        "label": "Slime"
+    },
+    {
+        "bundle": "Adventurer's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/35/Bat_Wing.png/24px-Bat_Wing.png",
+        "label": "Bat Wing"
+    },
+    {
+        "bundle": "Adventurer's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png",
+        "label": "Solar Essence"
+    },
+    {
+        "bundle": "Adventurer's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/24px-Void_Essence.png",
+        "label": "Void Essence"
+    },
+    {
+        "bundle": "Chef's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png",
+        "label": "Maple Syrup"
+    },
+    {
+        "bundle": "Chef's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/48/Fiddlehead_Fern.png/24px-Fiddlehead_Fern.png",
+        "label": "Fiddlehead Fern"
+    },
+    {
+        "bundle": "Chef's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Truffle.png/24px-Truffle.png",
+        "label": "Truffle"
+    },
+    {
+        "bundle": "Chef's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/24px-Poppy.png",
+        "label": "Poppy"
+    },
+    {
+        "bundle": "Chef's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Maki_Roll.png/24px-Maki_Roll.png",
+        "label": "Maki Roll"
+    },
+    {
+        "bundle": "Chef's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Fried_Egg.png/24px-Fried_Egg.png",
+        "label": "Fried Egg"
+    },
+    {
+        "bundle": "Dye Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+        "label": "Red Mushroom"
+    },
+    {
+        "bundle": "Dye Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e7/Sea_Urchin.png/24px-Sea_Urchin.png",
+        "label": "Sea Urchin"
+    },
+    {
+        "bundle": "Dye Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png",
+        "label": "Sunflower"
+    },
+    {
+        "bundle": "Dye Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/24px-Duck_Feather.png",
+        "label": "Duck Feather"
+    },
+    {
+        "bundle": "Dye Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/24px-Aquamarine.png",
+        "label": "Aquamarine"
+    },
+    {
+        "bundle": "Dye Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png",
+        "label": "Red Cabbage"
+    },
+    {
+        "bundle": "Field Research Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+        "label": "Purple Mushroom"
+    },
+    {
+        "bundle": "Field Research Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Nautilus_Shell.png/24px-Nautilus_Shell.png",
+        "label": "Nautilus Shell"
+    },
+    {
+        "bundle": "Field Research Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bd/Chub.png/24px-Chub.png",
+        "label": "Chub"
+    },
+    {
+        "bundle": "Field Research Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bf/Frozen_Geode.png/24px-Frozen_Geode.png",
+        "label": "Frozen Geode"
+    },
+    {
+        "bundle": "Fodder Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+        "label": "Wheat"
+    },
+    {
+        "bundle": "Fodder Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Hay.png/24px-Hay.png",
+        "label": "Hay"
+    },
+    {
+        "bundle": "Fodder Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+        "label": "Apple"
+    },
+    {
+        "bundle": "Enchanter's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png",
+        "label": "Oak Resin"
+    },
+    {
+        "bundle": "Enchanter's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/24px-Wine.png",
+        "label": "Wine"
+    },
+    {
+        "bundle": "Enchanter's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Rabbit%27s_Foot.png/24px-Rabbit%27s_Foot.png",
+        "label": "Rabbit's Foot"
+    },
+    {
+        "bundle": "Enchanter's Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+        "label": "Pomegranate"
+    },
+    {
+        "bundle": "The Missing Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Dinosaur_Mayonnaise.png/24px-Dinosaur_Mayonnaise.png",
+        "label": "Dinosaur Mayonnaise"
+    },
+    {
+        "bundle": "The Missing Bundle",
+        "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Prismatic_Shard.png/24px-Prismatic_Shard.png",
+        "label": "Prismatic Shard"
+    }
+]
