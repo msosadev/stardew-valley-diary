@@ -82,19 +82,19 @@
     "Construction Bundle": {
         "items": [
             {
-                "label": "Wood",
+                "label": "Wood (99)",
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png"
             },
             {
-                "label": "Wood",
+                "label": "Wood (99)",
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png"
             },
             {
-                "label": "Stone",
+                "label": "Stone (99)",
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d4/Stone.png/24px-Stone.png"
             },
             {
-                "label": "Hardwood",
+                "label": "Hardwood (10)",
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png"
             }
         ],
@@ -207,19 +207,23 @@
     "Quality Crops Bundle": {
         "items": [
             {
-                "label": "Parsnip",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png"
+                "label": "Parsnip (5)",
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png"
             },
             {
-                "label": "Melon",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png"
+                "label": "Melon (5)",
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png"
             },
             {
-                "label": "Pumpkin",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png"
+                "label": "Pumpkin (5)",
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png"
             },
             {
-                "label": "Corn",
+                "label": "Corn (5)",
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png"
+            },
+            {
+                "label": "Star icon (5)",
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png"
             }
         ],
@@ -232,7 +236,7 @@
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Large_Milk.png/24px-Large_Milk.png"
             },
             {
-                "label": "Large Egg",
+                "label": "Large Egg (Brown)",
                 "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Large_Brown_Egg.png/24px-Large_Brown_Egg.png"
             },
             {
