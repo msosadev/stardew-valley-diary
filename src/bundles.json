@@ -3,19 +3,31 @@
         "items": [
             {
                 "label": "Wild Horseradish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/90/Wild_Horseradish.png/24px-Wild_Horseradish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/90/Wild_Horseradish.png/24px-Wild_Horseradish.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Daffodil",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Daffodil.png/24px-Daffodil.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Daffodil.png/24px-Daffodil.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Leek",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/57/Leek.png/24px-Leek.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/57/Leek.png/24px-Leek.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Dandelion",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Dandelion.png/24px-Dandelion.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Dandelion.png/24px-Dandelion.png",
+                "seasons": [
+                    "Spring"
+                ]
             }
         ],
         "needed": 4
@@ -24,15 +36,24 @@
         "items": [
             {
                 "label": "Grape",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/24px-Grape.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Grape.png/24px-Grape.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Spice Berry",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Spice_Berry.png/24px-Spice_Berry.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Spice_Berry.png/24px-Spice_Berry.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Sweet Pea",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/Sweet_Pea.png/24px-Sweet_Pea.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d9/Sweet_Pea.png/24px-Sweet_Pea.png",
+                "seasons": [
+                    "Summer"
+                ]
             }
         ],
         "needed": 3
@@ -41,19 +62,31 @@
         "items": [
             {
                 "label": "Common Mushroom",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Common_Mushroom.png/24px-Common_Mushroom.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2e/Common_Mushroom.png/24px-Common_Mushroom.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Wild Plum",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Wild_Plum.png/24px-Wild_Plum.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3b/Wild_Plum.png/24px-Wild_Plum.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Hazelnut",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Hazelnut.png/24px-Hazelnut.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Hazelnut.png/24px-Hazelnut.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Blackberry",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Blackberry.png/24px-Blackberry.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/25/Blackberry.png/24px-Blackberry.png",
+                "seasons": [
+                    "Fall"
+                ]
             }
         ],
         "needed": 4
@@ -62,19 +95,31 @@
         "items": [
             {
                 "label": "Winter Root",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Winter_Root.png/24px-Winter_Root.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Winter_Root.png/24px-Winter_Root.png",
+                "seasons": [
+                    "Winter"
+                ]
             },
             {
                 "label": "Crystal Fruit",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/16/Crystal_Fruit.png/24px-Crystal_Fruit.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/16/Crystal_Fruit.png/24px-Crystal_Fruit.png",
+                "seasons": [
+                    "Winter"
+                ]
             },
             {
                 "label": "Snow Yam",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Snow_Yam.png/24px-Snow_Yam.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3f/Snow_Yam.png/24px-Snow_Yam.png",
+                "seasons": [
+                    "Winter"
+                ]
             },
             {
                 "label": "Crocus",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Crocus.png/24px-Crocus.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Crocus.png/24px-Crocus.png",
+                "seasons": [
+                    "Winter"
+                ]
             }
         ],
         "needed": 4
@@ -83,19 +128,31 @@
         "items": [
             {
                 "label": "Wood (99)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Wood (99)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/df/Wood.png/24px-Wood.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Stone (99)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d4/Stone.png/24px-Stone.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d4/Stone.png/24px-Stone.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Hardwood (10)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Hardwood.png/24px-Hardwood.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 4
@@ -104,39 +161,67 @@
         "items": [
             {
                 "label": "Coconut",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/24px-Coconut.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2f/Coconut.png/24px-Coconut.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Cactus Fruit",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/32/Cactus_Fruit.png/24px-Cactus_Fruit.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Cave Carrot",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Cave_Carrot.png/24px-Cave_Carrot.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Cave_Carrot.png/24px-Cave_Carrot.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Red Mushroom",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Purple Mushroom",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Maple Syrup",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Oak Resin",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Pine Tar",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Pine_Tar.png/24px-Pine_Tar.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ce/Pine_Tar.png/24px-Pine_Tar.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Morel",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Morel.png/24px-Morel.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b1/Morel.png/24px-Morel.png",
+                "seasons": [
+                    "Spring"
+                ]
             }
         ],
         "needed": 5
@@ -145,19 +230,31 @@
         "items": [
             {
                 "label": "Parsnip",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Green Bean",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Green_Bean.png/24px-Green_Bean.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5c/Green_Bean.png/24px-Green_Bean.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Cauliflower",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Cauliflower.png/24px-Cauliflower.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Cauliflower.png/24px-Cauliflower.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Potato",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Potato.png/24px-Potato.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c2/Potato.png/24px-Potato.png",
+                "seasons": [
+                    "Spring"
+                ]
             }
         ],
         "needed": 4
@@ -166,19 +263,31 @@
         "items": [
             {
                 "label": "Tomato",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Tomato.png/24px-Tomato.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9d/Tomato.png/24px-Tomato.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Hot Pepper",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Hot_Pepper.png/24px-Hot_Pepper.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Blueberry",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Blueberry.png/24px-Blueberry.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9e/Blueberry.png/24px-Blueberry.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Melon",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+                "seasons": [
+                    "Summer"
+                ]
             }
         ],
         "needed": 4
@@ -187,19 +296,32 @@
         "items": [
             {
                 "label": "Corn",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Eggplant",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Eggplant.png/24px-Eggplant.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/8f/Eggplant.png/24px-Eggplant.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Pumpkin",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Yam",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/24px-Yam.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/52/Yam.png/24px-Yam.png",
+                "seasons": [
+                    "Fall"
+                ]
             }
         ],
         "needed": 4
@@ -208,23 +330,39 @@
         "items": [
             {
                 "label": "Parsnip (5)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Parsnip.png/24px-Parsnip.png",
+                "seasons": [    
+                    "Spring"
+                ]
             },
             {
                 "label": "Melon (5)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/19/Melon.png/24px-Melon.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Pumpkin (5)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/64/Pumpkin.png/24px-Pumpkin.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Corn (5)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f8/Corn.png/24px-Corn.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Star icon (5)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/47/Gold_Quality_Icon.png/24px-Gold_Quality_Icon.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 3
@@ -233,27 +371,45 @@
         "items": [
             {
                 "label": "Large Milk",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Large_Milk.png/24px-Large_Milk.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/67/Large_Milk.png/24px-Large_Milk.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Large Egg (Brown)",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Large_Brown_Egg.png/24px-Large_Brown_Egg.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Large_Brown_Egg.png/24px-Large_Brown_Egg.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Large Egg",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Large_Egg.png/24px-Large_Egg.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5d/Large_Egg.png/24px-Large_Egg.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Large Goat Milk",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Large_Goat_Milk.png/24px-Large_Goat_Milk.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Large_Goat_Milk.png/24px-Large_Goat_Milk.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Wool",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Wool.png/24px-Wool.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/34/Wool.png/24px-Wool.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Duck Egg",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Duck_Egg.png/24px-Duck_Egg.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/31/Duck_Egg.png/24px-Duck_Egg.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 5
@@ -262,51 +418,88 @@
         "items": [
             {
                 "label": "Truffle Oil",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Truffle_Oil.png/24px-Truffle_Oil.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/3d/Truffle_Oil.png/24px-Truffle_Oil.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Cloth",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/Cloth.png/24px-Cloth.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/Cloth.png/24px-Cloth.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Goat Cheese",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/24px-Goat_Cheese.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c8/Goat_Cheese.png/24px-Goat_Cheese.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Cheese",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Cheese.png/24px-Cheese.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a5/Cheese.png/24px-Cheese.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Honey",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c6/Honey.png/24px-Honey.png",
+                "seasons": [
+                    "Spring",
+                    "Summer"
+                ]
             },
             {
                 "label": "Jelly",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Jelly.png/24px-Jelly.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Jelly.png/24px-Jelly.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Apple",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Apricot",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fc/Apricot.png/24px-Apricot.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/fc/Apricot.png/24px-Apricot.png",
+                "seasons": [
+                    "Spring"
+                ]
             },
             {
                 "label": "Orange",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Orange.png/24px-Orange.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/43/Orange.png/24px-Orange.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Peach",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/24px-Peach.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Peach.png/24px-Peach.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Pomegranate",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Cherry",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Cherry.png/24px-Cherry.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/20/Cherry.png/24px-Cherry.png",
+                "seasons": [
+                    "Spring"
+                ]
             }
         ],
         "needed": 6
@@ -315,19 +508,35 @@
         "items": [
             {
                 "label": "Sunfish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Sunfish.png/24px-Sunfish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Sunfish.png/24px-Sunfish.png",
+                "seasons": [
+                    "Spring",
+                    "Summer"
+                ]
             },
             {
                 "label": "Catfish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Catfish.png/24px-Catfish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/99/Catfish.png/24px-Catfish.png",
+                "seasons": [
+                    "Spring",
+                    "Fall"
+                ]
             },
             {
                 "label": "Shad",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ef/Shad.png/24px-Shad.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ef/Shad.png/24px-Shad.png",
+                "seasons": [
+                    "Spring",
+                    "Fall"
+                ]
             },
             {
                 "label": "Tiger Trout",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Tiger_Trout.png/24px-Tiger_Trout.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/01/Tiger_Trout.png/24px-Tiger_Trout.png",
+                "seasons": [
+                    "Fall",
+                    "Winter"
+                ]
             }
         ],
         "needed": 4
@@ -336,19 +545,32 @@
         "items": [
             {
                 "label": "Largemouth Bass",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Largemouth_Bass.png/24px-Largemouth_Bass.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/11/Largemouth_Bass.png/24px-Largemouth_Bass.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Carp",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a8/Carp.png/24px-Carp.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a8/Carp.png/24px-Carp.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Bullhead",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Bullhead.png/24px-Bullhead.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/db/Bullhead.png/24px-Bullhead.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Sturgeon",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Sturgeon.png/24px-Sturgeon.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/42/Sturgeon.png/24px-Sturgeon.png",
+                "seasons": [
+                    "Summer",
+                    "Winter"
+                ]
             }
         ],
         "needed": 4
@@ -357,19 +579,36 @@
         "items": [
             {
                 "label": "Sardine",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Sardine.png/24px-Sardine.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/04/Sardine.png/24px-Sardine.png",
+                "seasons": [
+                    "Spring",
+                    "Fall",
+                    "Winter"
+                ]
             },
             {
                 "label": "Tuna",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Tuna.png/24px-Tuna.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c5/Tuna.png/24px-Tuna.png",
+                "seasons": [
+                    "Summer",
+                    "Winter"
+                ]
             },
             {
                 "label": "Red Snapper",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d3/Red_Snapper.png/24px-Red_Snapper.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d3/Red_Snapper.png/24px-Red_Snapper.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Tilapia",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Tilapia.png/24px-Tilapia.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/73/Tilapia.png/24px-Tilapia.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             }
         ],
         "needed": 4
@@ -378,15 +617,26 @@
         "items": [
             {
                 "label": "Walleye",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Walleye.png/24px-Walleye.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Walleye.png/24px-Walleye.png",
+                "seasons": [
+                    "Fall",
+                    "Winter"
+                ]
             },
             {
                 "label": "Bream",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Bream.png/24px-Bream.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/82/Bream.png/24px-Bream.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Eel",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Eel.png/24px-Eel.png",
+                "seasons": [
+                    "Spring",
+                    "Fall"
+                ]
             }
         ],
         "needed": 3
@@ -395,43 +645,73 @@
         "items": [
             {
                 "label": "Lobster",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Lobster.png/24px-Lobster.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/9f/Lobster.png/24px-Lobster.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Crayfish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Crayfish.png/24px-Crayfish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/53/Crayfish.png/24px-Crayfish.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Crab",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crab.png/24px-Crab.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/63/Crab.png/24px-Crab.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Cockle",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Cockle.png/24px-Cockle.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Cockle.png/24px-Cockle.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Mussel",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Mussel.png/24px-Mussel.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Mussel.png/24px-Mussel.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Shrimp",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Shrimp.png/24px-Shrimp.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/91/Shrimp.png/24px-Shrimp.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Snail",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Snail.png/24px-Snail.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d2/Snail.png/24px-Snail.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Periwinkle",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Periwinkle.png/24px-Periwinkle.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1d/Periwinkle.png/24px-Periwinkle.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Oyster",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/54/Oyster.png/24px-Oyster.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/54/Oyster.png/24px-Oyster.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Clam",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Clam.png/24px-Clam.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ed/Clam.png/24px-Clam.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 5
@@ -440,19 +720,31 @@
         "items": [
             {
                 "label": "Pufferfish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/ba/Pufferfish.png/24px-Pufferfish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/ba/Pufferfish.png/24px-Pufferfish.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Ghostfish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/72/Ghostfish.png/24px-Ghostfish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/72/Ghostfish.png/24px-Ghostfish.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Sandfish",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bb/Sandfish.png/24px-Sandfish.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bb/Sandfish.png/24px-Sandfish.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Woodskip",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/97/Woodskip.png/24px-Woodskip.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/9/97/Woodskip.png/24px-Woodskip.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 4
@@ -461,15 +753,24 @@
         "items": [
             {
                 "label": "Copper Bar",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/24px-Copper_Bar.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f1/Copper_Bar.png/24px-Copper_Bar.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Iron Bar",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Iron_Bar.png/24px-Iron_Bar.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6c/Iron_Bar.png/24px-Iron_Bar.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Gold Bar",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4e/Gold_Bar.png/24px-Gold_Bar.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 3
@@ -478,19 +779,31 @@
         "items": [
             {
                 "label": "Quartz",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Quartz.png/24px-Quartz.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/cf/Quartz.png/24px-Quartz.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Earth Crystal",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Earth_Crystal.png/24px-Earth_Crystal.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/74/Earth_Crystal.png/24px-Earth_Crystal.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Frozen Tear",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Frozen_Tear.png/24px-Frozen_Tear.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/ec/Frozen_Tear.png/24px-Frozen_Tear.png",
+                "seasons": [
+                    "Winter"
+                ]
             },
             {
                 "label": "Fire Quartz",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Fire_Quartz.png/24px-Fire_Quartz.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/5b/Fire_Quartz.png/24px-Fire_Quartz.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 4
@@ -499,19 +812,31 @@
         "items": [
             {
                 "label": "Slime",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Slime.png/24px-Slime.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/38/Slime.png/24px-Slime.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Bat Wing",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/35/Bat_Wing.png/24px-Bat_Wing.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/35/Bat_Wing.png/24px-Bat_Wing.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Solar Essence",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f4/Solar_Essence.png/24px-Solar_Essence.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Void Essence",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/24px-Void_Essence.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1f/Void_Essence.png/24px-Void_Essence.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 2
@@ -520,27 +845,45 @@
         "items": [
             {
                 "label": "Maple Syrup",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6a/Maple_Syrup.png/24px-Maple_Syrup.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Fiddlehead Fern",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/48/Fiddlehead_Fern.png/24px-Fiddlehead_Fern.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/48/Fiddlehead_Fern.png/24px-Fiddlehead_Fern.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Truffle",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Truffle.png/24px-Truffle.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f2/Truffle.png/24px-Truffle.png",
+                "seasons": [
+                    "Fall"
+                ]
             },
             {
                 "label": "Poppy",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/24px-Poppy.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/37/Poppy.png/24px-Poppy.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Maki Roll",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Maki_Roll.png/24px-Maki_Roll.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/b6/Maki_Roll.png/24px-Maki_Roll.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Fried Egg",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Fried_Egg.png/24px-Fried_Egg.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/18/Fried_Egg.png/24px-Fried_Egg.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 6
@@ -549,27 +892,47 @@
         "items": [
             {
                 "label": "Red Mushroom",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e1/Red_Mushroom.png/24px-Red_Mushroom.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Sea Urchin",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e7/Sea_Urchin.png/24px-Sea_Urchin.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e7/Sea_Urchin.png/24px-Sea_Urchin.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Sunflower",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/8/81/Sunflower.png/24px-Sunflower.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Duck Feather",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/24px-Duck_Feather.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f9/Duck_Feather.png/24px-Duck_Feather.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Aquamarine",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/24px-Aquamarine.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a2/Aquamarine.png/24px-Aquamarine.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Red Cabbage",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/2/2d/Red_Cabbage.png/24px-Red_Cabbage.png",
+                "seasons": [
+                    "Summer"
+                ]
             }
         ],
         "needed": 6
@@ -578,19 +941,31 @@
         "items": [
             {
                 "label": "Purple Mushroom",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/4b/Purple_Mushroom.png/24px-Purple_Mushroom.png",
+                "seasons": [
+                    "Summer"
+                ]
             },
             {
                 "label": "Nautilus Shell",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Nautilus_Shell.png/24px-Nautilus_Shell.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a4/Nautilus_Shell.png/24px-Nautilus_Shell.png",
+                "seasons": [
+                    "Winter"
+                ]
             },
             {
                 "label": "Chub",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bd/Chub.png/24px-Chub.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bd/Chub.png/24px-Chub.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Frozen Geode",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bf/Frozen_Geode.png/24px-Frozen_Geode.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bf/Frozen_Geode.png/24px-Frozen_Geode.png",
+                "seasons": [
+                    "Winter"
+                ]
             }
         ],
         "needed": 4
@@ -599,15 +974,25 @@
         "items": [
             {
                 "label": "Wheat",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/e/e2/Wheat.png/24px-Wheat.png",
+                "seasons": [
+                    "Summer",
+                    "Fall"
+                ]
             },
             {
                 "label": "Hay",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Hay.png/24px-Hay.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/aa/Hay.png/24px-Hay.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Apple",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/7/7d/Apple.png/24px-Apple.png",
+                "seasons": [
+                    "Fall"
+                ]
             }
         ],
         "needed": 3
@@ -616,19 +1001,31 @@
         "items": [
             {
                 "label": "Oak Resin",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/40/Oak_Resin.png/24px-Oak_Resin.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Wine",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/24px-Wine.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/69/Wine.png/24px-Wine.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Rabbit's Foot",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Rabbit%27s_Foot.png/24px-Rabbit%27s_Foot.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/ca/Rabbit%27s_Foot.png/24px-Rabbit%27s_Foot.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Pomegranate",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1b/Pomegranate.png/24px-Pomegranate.png",
+                "seasons": [
+                    "Fall"
+                ]
             }
         ],
         "needed": 4
@@ -637,11 +1034,17 @@
         "items": [
             {
                 "label": "Dinosaur Mayonnaise",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Dinosaur_Mayonnaise.png/24px-Dinosaur_Mayonnaise.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c3/Dinosaur_Mayonnaise.png/24px-Dinosaur_Mayonnaise.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             },
             {
                 "label": "Prismatic Shard",
-                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Prismatic_Shard.png/24px-Prismatic_Shard.png"
+                "img": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/56/Prismatic_Shard.png/24px-Prismatic_Shard.png",
+                "seasons": [
+                    "All Seasons"
+                ]
             }
         ],
         "needed": 5
