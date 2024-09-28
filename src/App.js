@@ -1,27 +1,26 @@
+import { useState } from 'react';
 import './App.css';
 import bundles from './bundles.json'
-import ItemCheckbox from './ItemCheckbox';
-
-console.log(bundles);
+import FilterRadio from './Filter';
+import Bundle from './Bundle';
 
 function App() {
+  const [selectedFilter, setSelectedFilter] = useState("");
+  const filterValues = ["All Seasons","Spring", "Summer", "Fall", "Winter"];
+  
   return (
     <div className="App">
       <h1>Stardew valley item logger</h1>
-      <div class="items">
-        {Object.keys(bundles).map((key) => {
+      {filterValues.map((filter,index)=> {
+        return <FilterRadio key={`filter-${index}`} selectedFilter={selectedFilter} filter={filter} setSelectedFilter={setSelectedFilter} />
+      })}
+      <h2>{selectedFilter}</h2>
+      <div className="items">
+        {Object.keys(bundles).map((bundleKey, bundleIndex) => {
           return (
-            <div class="bundle">
-              <h2>{key}</h2>
-              <div class="item-container">
-                {bundles[key].items.map((item, index) => {
-                  return <ItemCheckbox key={`item-${index}`} label={item.label} src={item.img} />
-                })}
-              </div>
-            </div>
+            <Bundle key={`bundle-${bundleIndex}`} bundleIndex={bundleIndex} bundleKey={bundleKey} selectedFilter={selectedFilter} />
           )
         })}
-
       </div>
     </div>
   );

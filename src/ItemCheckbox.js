@@ -2,7 +2,7 @@ import "./ItemCheckbox.css"
 
 function ItemCheckbox(props) {
     return(
-        <label className="item-checkbox" for={props.key}><img src={props.src} alt={`${props.label}`}></img> <input type="checkbox" name={props.key} id={props.key}></input> {props.label}</label>
+        <label className="item-checkbox" htmlFor={props.id}><img src={props.src} alt={`${props.label}`}></img> <input type="checkbox" name={props.id} id={props.id}></input> {props.label}</label>
     )
 }
 
