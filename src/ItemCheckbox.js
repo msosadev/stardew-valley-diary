@@ -1,4 +1,3 @@
-import "./ItemCheckbox.css"
 import ItemImg from "./ItemImg";
 
 function ItemCheckbox(props) {

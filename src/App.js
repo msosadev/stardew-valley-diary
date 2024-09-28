@@ -15,7 +15,7 @@ function App() {
         return <FilterRadio key={`filter-${index}`} selectedFilter={selectedFilter} filter={filter} setSelectedFilter={setSelectedFilter} />
       })}
       <h2>{selectedFilter}</h2>
-      <div className="items">
+      <div className="bundles-wrapper">
         {Object.keys(bundles).map((bundleKey, bundleIndex) => {
           return (
             <Bundle key={`bundle-${bundleIndex}`} bundleIndex={bundleIndex} bundleKey={bundleKey} selectedFilter={selectedFilter} />

@@ -3,3 +3,32 @@
     flex-direction: column;
     gap: 16px;
 }
+
+.item-checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.bundle-slot {
+    width: 36px;
+    height: 36px;
+    background: center / contain no-repeat url(./Bundle_Slot.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bundles-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.bundle-content {
+    display: flex;
+    gap: 16px;
+    margin: 32px 0;
+}
+
+h3,p {
+    margin: 0;
+}
