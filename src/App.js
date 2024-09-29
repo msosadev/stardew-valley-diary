@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import './App.css';
 import bundles from './bundles.json'
-import FilterRadio from './Filter';
-import Bundle from './Bundle';
+import FilterRadio from './components/Filter';
+import Bundle from './components/Bundle';
 
 function App() {
   const [selectedFilter, setSelectedFilter] = useState("");
