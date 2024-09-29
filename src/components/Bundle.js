@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import bundles from './bundles.json';
+import bundles from '../bundles.json';
 import ItemCheckbox from './ItemCheckbox';
 import BundleSlot from './BundleSlot';
 
