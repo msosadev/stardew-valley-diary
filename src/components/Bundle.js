@@ -5,26 +5,22 @@ import BundleSlot from './BundleSlot';
 
 function Bundle(props) {
     const bundle = bundles[props.bundleKey];
-    let outputItems;
-    if (props.selectedFilter === "") {
-        outputItems = bundle.items;
-    } else {
-        const filteredItems = bundle.items.filter(item => item.seasons.includes(props.selectedFilter));
-        outputItems = filteredItems;
-    }
+    const filteredItems = bundle.items.filter(item => item.seasons.includes(props.selectedFilter));
+    let outputItems = props.selectedFilter === "" ? bundle.items : filteredItems;
     const [itemsUsed, setItemsUsed] = useState([]);
+    const itemsLeft = bundle.needed - itemsUsed.length;
 
     if (outputItems.length > 0 || props.selectedFilter === "") {
         return (
             <div className="bundle">
                 <h3>{props.bundleKey}</h3>
-                <p>Left: {bundle.needed - itemsUsed.length}</p>
+                <p>Left: {itemsLeft}</p>
                 <div className='bundle-content'>
                     <div className='slots-wrapper'>
                         {itemsUsed.map((itemIndex) => {
-                            return <BundleSlot key={`item-slot-${outputItems[itemIndex]}`} item={outputItems[itemIndex]} />
+                            return <BundleSlot key={`item-slot-${outputItems[itemIndex].id}`} item={outputItems[itemIndex]} />
                         })}
-                        {Array.from({ length: bundle.needed - itemsUsed.length }).map((_, index) => {
+                        {Array.from({ length: itemsLeft }).map((_, index) => {
                             return <BundleSlot key={`empty-slot-${index}-${bundle.id}`} id={`empty-slot-${index}-${bundle.id}`} />
                         })}
                     </div>
@@ -32,7 +28,7 @@ function Bundle(props) {
                         {outputItems
                             .map((item, index) => {
                                 return (
-                                    <ItemCheckbox key={item.id} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsUsed={itemsUsed} setItemsUsed={setItemsUsed} />
+                                    <ItemCheckbox key={item.id} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsLeft={itemsLeft} setItemsUsed={setItemsUsed} />
                                 )
                             })}
                     </div>

@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <h1>Stardew Valley Item Logger</h1>
-      <div class="filters-wrapper">
+      <div className="filters-wrapper">
         {filterValues.map((filter) => {
           return <FilterRadio key={`filter-${filter.id}`} selectedFilter={selectedFilter} filter={filter} setSelectedFilter={setSelectedFilter} />
         })}
