@@ -15,18 +15,18 @@ function Bundle(props) {
                 <p>Left: {bundle.needed - itemsUsed.length}</p>
                 <div className='bundle-content'>
                     <div className='slots-wrapper'>
-                        {itemsUsed.map((itemIndex, index) => {
-                            return <BundleSlot key={index} item={filteredItems[itemIndex]} />
+                        {itemsUsed.map((itemIndex) => {
+                            return <BundleSlot key={`item-slot-${filteredItems[itemIndex]}`} item={filteredItems[itemIndex]} />
                         })}
                         {Array.from({ length: bundle.needed - itemsUsed.length }).map((_, index) => {
-                            return <BundleSlot key={index} />
+                            return <BundleSlot key={`empty-slot-${index}-${bundle.id}`} id={`empty-slot-${index}-${bundle.id}`} />
                         })}
                     </div>
                     <div className="item-container">
                         {filteredItems
                             .map((item, index) => {
                                 return (
-                                    <ItemCheckbox key={index} itemIndex={index} id={`item-${props.bundleIndex}-${index}`} item={item} itemsUsed={itemsUsed} setItemsUsed={setItemsUsed} />
+                                    <ItemCheckbox key={item.id} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsUsed={itemsUsed} setItemsUsed={setItemsUsed} />
                                 )
                             })}
                     </div>

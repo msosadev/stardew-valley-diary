@@ -18,7 +18,7 @@ function App() {
       <div className="bundles-wrapper">
         {Object.keys(bundles).map((bundleKey, bundleIndex) => {
           return (
-            <Bundle key={`bundle-${bundleIndex}`} bundleIndex={bundleIndex} bundleKey={bundleKey} selectedFilter={selectedFilter} />
+            <Bundle key={bundles[bundleKey].id} bundleIndex={bundleIndex} bundleKey={bundleKey} selectedFilter={selectedFilter} />
           )
         })}
       </div>
