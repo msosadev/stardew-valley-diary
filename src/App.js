@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import bundles from './bundles.json'
-import FilterRadio from './components/Filter';
+import FilterRadio from './components/FilterRadio';
 import Bundle from './components/Bundle';
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
           return <FilterRadio key={`filter-${filter.id}`} selectedFilter={selectedFilter} filter={filter} setSelectedFilter={setSelectedFilter} />
         })}
       </div>
-      <h2>{selectedFilter}</h2>
+      <h2>{selectedFilter === "" ? "All Seasons" : selectedFilter}</h2>
       <div className="bundles-wrapper">
         {Object.keys(bundles).map((bundleKey, bundleIndex) => {
           return (
