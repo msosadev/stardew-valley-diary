@@ -9,6 +9,8 @@ function Bundle(props) {
     let outputItems = props.selectedFilter === "" ? bundle.items : filteredItems;
     const [itemsUsed, setItemsUsed] = useState([]);
     const itemsLeft = bundle.needed - itemsUsed.length;
+    const itemIds = bundle.items.map(item => item.id);
+
 
     if (outputItems.length > 0 || props.selectedFilter === "") {
         return (
@@ -17,7 +19,8 @@ function Bundle(props) {
                 <p>Left: {itemsLeft}</p>
                 <div className='bundle-content'>
                     <div className='slots-wrapper'>
-                        {bundle.items.filter(item => itemsUsed.includes(item.id)).map((item) => {
+                        {itemsUsed.filter(itemId => itemIds.includes(itemId)).map((itemId) => {
+                            const item = bundle.items.find(bundleItem => bundleItem.id === itemId);
                             return <BundleSlot key={`item-slot-${item.id}`} item={item} />
                         })}
                         {Array.from({ length: itemsLeft }).map((_, index) => {
