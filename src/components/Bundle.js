@@ -9,6 +9,8 @@ function Bundle(props) {
     let outputItems = props.selectedFilter === "" ? bundle.items : filteredItems;
     const [itemsUsed, setItemsUsed] = useState([]);
     const itemsLeft = bundle.needed - itemsUsed.length;
+    const itemIds = bundle.items.map(item => item.id);
+
 
     if (outputItems.length > 0 || props.selectedFilter === "") {
         return (
@@ -17,8 +19,9 @@ function Bundle(props) {
                 <p>Left: {itemsLeft}</p>
                 <div className='bundle-content'>
                     <div className='slots-wrapper'>
-                        {itemsUsed.map((itemIndex) => {
-                            return <BundleSlot key={`item-slot-${outputItems[itemIndex].id}`} item={outputItems[itemIndex]} />
+                        {itemsUsed.filter(itemId => itemIds.includes(itemId)).map((itemId) => {
+                            const item = bundle.items.find(bundleItem => bundleItem.id === itemId);
+                            return <BundleSlot key={`item-slot-${item.id}`} item={item} />
                         })}
                         {Array.from({ length: itemsLeft }).map((_, index) => {
                             return <BundleSlot key={`empty-slot-${index}-${bundle.id}`} id={`empty-slot-${index}-${bundle.id}`} />
@@ -28,7 +31,7 @@ function Bundle(props) {
                         {outputItems
                             .map((item, index) => {
                                 return (
-                                    <ItemCheckbox key={item.id} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsLeft={itemsLeft} setItemsUsed={setItemsUsed} />
+                                    <ItemCheckbox key={item.id} bundle={bundle} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsLeft={itemsLeft} itemsUsed={itemsUsed} setItemsUsed={setItemsUsed} />
                                 )
                             })}
                     </div>
