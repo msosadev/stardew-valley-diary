@@ -17,8 +17,8 @@ function Bundle(props) {
                 <p>Left: {itemsLeft}</p>
                 <div className='bundle-content'>
                     <div className='slots-wrapper'>
-                        {itemsUsed.map((itemIndex) => {
-                            return <BundleSlot key={`item-slot-${outputItems[itemIndex].id}`} item={outputItems[itemIndex]} />
+                        {outputItems.filter(item => itemsUsed.includes(item.id)).map((item) => {
+                            return <BundleSlot key={`item-slot-${item.id}`} item={item} />
                         })}
                         {Array.from({ length: itemsLeft }).map((_, index) => {
                             return <BundleSlot key={`empty-slot-${index}-${bundle.id}`} id={`empty-slot-${index}-${bundle.id}`} />

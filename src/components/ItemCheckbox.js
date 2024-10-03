@@ -7,9 +7,9 @@ function ItemCheckbox(props) {
     function changeHandler(evt) {
         setIsChecked(evt.target.checked);
         if (evt.target.checked) {
-            props.setItemsUsed((prev) => [...prev, props.itemIndex]);
+            props.setItemsUsed((prev) => [...prev, props.item.id]);
         } else {
-            props.setItemsUsed((prev) => prev.filter(item => item !== props.itemIndex));
+            props.setItemsUsed((prev) => prev.filter(itemId => itemId !== props.item.id));
         }
     }
 
