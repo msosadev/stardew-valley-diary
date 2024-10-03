@@ -17,7 +17,7 @@ function Bundle(props) {
                 <p>Left: {itemsLeft}</p>
                 <div className='bundle-content'>
                     <div className='slots-wrapper'>
-                        {outputItems.filter(item => itemsUsed.includes(item.id)).map((item) => {
+                        {bundle.items.filter(item => itemsUsed.includes(item.id)).map((item) => {
                             return <BundleSlot key={`item-slot-${item.id}`} item={item} />
                         })}
                         {Array.from({ length: itemsLeft }).map((_, index) => {
@@ -28,7 +28,7 @@ function Bundle(props) {
                         {outputItems
                             .map((item, index) => {
                                 return (
-                                    <ItemCheckbox key={item.id} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsLeft={itemsLeft} setItemsUsed={setItemsUsed} />
+                                    <ItemCheckbox key={item.id} bundle={bundle} itemIndex={index} id={`checkbox-${item.id}`} item={item} itemsLeft={itemsLeft} itemsUsed={itemsUsed} setItemsUsed={setItemsUsed} />
                                 )
                             })}
                     </div>
