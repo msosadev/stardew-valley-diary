@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import bundles from '../bundles.json';
 import ItemCheckbox from './ItemCheckbox';
 import BundleSlot from './BundleSlot';
@@ -7,10 +7,19 @@ function Bundle(props) {
     const bundle = bundles[props.bundleKey];
     const filteredItems = bundle.items.filter(item => item.seasons.includes(props.selectedFilter));
     let outputItems = props.selectedFilter === "" ? bundle.items : filteredItems;
-    const [itemsUsed, setItemsUsed] = useState([]);
+    const [itemsUsed, setItemsUsed] = useState(props.startupGlobalItems[bundle.id]);
     const itemsLeft = bundle.needed - itemsUsed.length;
     const itemIds = bundle.items.map(item => item.id);
 
+    const setSelectedGlobalItems = props.setSelectedGlobalItems;
+    useEffect(()=>{
+        setSelectedGlobalItems((prev) => {
+            const newState = { ...prev }
+            if(!newState[bundle.id]) newState[bundle.id] = [];
+            newState[bundle.id] = itemsUsed;
+            return newState;
+        });
+    },[itemsUsed])
 
     if (outputItems.length > 0 || props.selectedFilter === "") {
         return (
