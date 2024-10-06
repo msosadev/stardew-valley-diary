@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css';
 import bundles from './bundles.json'
 import filterValues from './filterValues.json'
@@ -7,6 +7,13 @@ import Bundle from './components/Bundle';
 
 function App() {
   const [selectedFilter, setSelectedFilter] = useState("");
+  const localStorageItemsKey = "stardewLoggerSaveState";
+  const startupGlobalItems = JSON.parse(localStorage.getItem(localStorageItemsKey)) || {};
+  const [selectedGlobalItems, setSelectedGlobalItems] = useState(startupGlobalItems);
+
+  useEffect(()=> {
+    localStorage.setItem(localStorageItemsKey, JSON.stringify(selectedGlobalItems));
+  },[selectedGlobalItems])
 
   return (
     <div className="App">
@@ -20,7 +27,7 @@ function App() {
       <div className="bundles-wrapper">
         {Object.keys(bundles).map((bundleKey, bundleIndex) => {
           return (
-            <Bundle key={bundles[bundleKey].id} bundleIndex={bundleIndex} bundleKey={bundleKey} selectedFilter={selectedFilter} />
+            <Bundle startupGlobalItems={startupGlobalItems} key={bundles[bundleKey].id} bundleIndex={bundleIndex} bundleKey={bundleKey} selectedFilter={selectedFilter} setSelectedGlobalItems={setSelectedGlobalItems} />
           )
         })}
       </div>
