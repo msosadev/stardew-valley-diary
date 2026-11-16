@@ -7,7 +7,7 @@ function Bundle(props) {
     const bundle = bundles[props.bundleKey];
     const filteredItems = bundle.items.filter(item => item.seasons.includes(props.selectedFilter));
     let outputItems = props.selectedFilter === "" ? bundle.items : filteredItems;
-    const [itemsUsed, setItemsUsed] = useState(props.startupGlobalItems[bundle.id]);
+    const [itemsUsed, setItemsUsed] = useState(props.startupGlobalItems[bundle.id] ?? []);
     const itemsLeft = bundle.needed - itemsUsed.length;
     const itemIds = bundle.items.map(item => item.id);
 
